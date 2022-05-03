@@ -1,1 +1,14 @@
-
+{
+  "p1":"Bug_ID",
+  "p2":"Summary",
+  "p3":"Version_number",
+  "p4":"Severity",
+  "p5":"Priority",
+  "p6":"Author",
+  "p7":"Assigned to",
+  "p8":"Environment",
+  "p9":"Steps",
+  "p10":"Actual_result",
+  "p11":"Expected_result",
+  "p12":"Attachments"
+}
